@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "c4be475a-ef49-47d2-a75f-4e8f8d6b9292",
+      "name": "Nikesh",
+      "email": "Nicks@gmail.com"
+    },
+    {
+      "id": "de92fe95-65f1-42ba-bbe9-2cd90322a3bc",
+      "name": "Max",
+      "email": "dipe@gmail.com"
+    },
+    {
+      "id": "45d98e74-bac7-42a5-8f92-8b14e50a8895",
+      "name": "srinu",
+      "email": "190030525@kluniversity.in"
+    }
+  ]
+}
