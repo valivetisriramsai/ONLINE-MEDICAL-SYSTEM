@@ -1,3 +1,4 @@
 # ONLINE-MEDICAL-SYSTEM
 Online medical system using react and django with aws integration
-check out the code at master branch
+
+[projectcode.txt](https://github.com/valivetisriramsai/ONLINE-MEDICAL-SYSTEM/files/8700619/projectcode.txt)
